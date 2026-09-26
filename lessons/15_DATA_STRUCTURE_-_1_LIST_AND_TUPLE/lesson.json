@@ -1,0 +1,41 @@
+{
+  "plannedDate": "2026-09-19",
+  "id": 1549934,
+  "plannedStartTime": "10:00 AM",
+  "topic": "DATA STRUCTURE - 1: LIST AND TUPLE",
+  "subtopic": "Creation Of Lists\nBasic Operations On Lists\nDemonstration Of List Manipulation Techniques\nSlicing And Indexing In Lists.\nList Comprehension For Concise And Readable Code.\nTuples Creation\nBasic Operations On Tuples\nSlicing And Indexing In Tuples\nCommon Operations On Both Lists And Tuples\nHands-on Activity",
+  "plannedTrainerName": "Diptanshu Chandan",
+  "actualTrainerName": "Diptanshu Chandan",
+  "actualDate": "2026-09-19",
+  "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQAhU_Chh9J1S5SP0AQ_RwBVAS68Yi7bi6cKCUoZyjXAUVM,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQCFa5VkkaRCQKGSQRCry6wHAfyFXg9ofw9kxJOpD7ndVbQ",
+  "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDk2NzAxMmQtOGMxZS00YzE0LTk4MGMtNTE3ZGNiMzkxN2Zh%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+  "meetingDate": "2026-09-19",
+  "meetingTime": "10:00 AM",
+  "meetingHr": "03:00",
+  "meetingDeleted": 0,
+  "batchId": 1466,
+  "lecNumber": 15,
+  "isHoliday": 0,
+  "status": 1,
+  "hours": "3 Hours",
+  "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
+  "name": "HTC-AUG2026-DSAI-1",
+  "session_tag": "COMPLETED",
+  "subTopic": "Creation Of Lists\nBasic Operations On Lists\nDemonstration Of List Manipulation Techniques\nSlicing And Indexing In Lists.\nList Comprehension For Concise And Readable Code.\nTuples Creation\nBasic Operations On Tuples\nSlicing And Indexing In Tuples\nCommon Operations On Both Lists And Tuples\nHands-on Activity",
+  "sessionTime": "19 Sep, 2026",
+  "sessionplannedDate": "19 Sep, 2026",
+  "weekDay": 38,
+  "lectureMaterial": [
+    {
+      "file": "03_DATASTRUCTURE-1-LISTANDTUPLE.pptx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BA5E013AA-6C6D-41C3-A6EE-D0601F8F8250%7D&file=03_DATASTRUCTURE-1-LISTANDTUPLE.pptx&action=edit&mobileredirect=true",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "pptx"
+    }
+  ],
+  "show_slot_selection": "no",
+  "bookSlotDetails": 2,
+  "display": "no"
+}

@@ -1,0 +1,57 @@
+{
+  "plannedDate": "2026-08-23",
+  "id": 1549931,
+  "plannedStartTime": "10:00 AM",
+  "topic": "ADVANCED SQL CONCEPT & DATA MANUPULATION",
+  "subtopic": "Creating And Using Temporary Tables\nAdding Comments To Sql Code For Documentation\nIntroduction To Data Modeling\nDesigning A Simple Database Schema\nSorting Data With Order By (advanced)\nAdvanced Filtering With In, Or, And, Not\nPerforming Mathematical Operations On Data\nIntroduction To Aggregate Functions (count, Sum, Avg, Max, Min)\nGrouping Data With Group By\nFiltering Grouped Data With Having\nUnderstanding Subqueries And Their Types\nPerforming Join Operations (inner Join, Left Join, Right Join, Full Outer Join)\nUpdating And Deleting Data With Sql\nAnalyzing Data With Simple Statistics",
+  "plannedTrainerName": "Manmeet Bindra",
+  "actualTrainerName": "Manmeet Bindra",
+  "actualDate": "2026-08-23",
+  "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQDcdnXtq-KKTb149NncQFDbAYOW4bUYgfGlOZ-o-Eh2KoE",
+  "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjUwNzdmODctYjk5Mi00Zjk4LTkxNDMtODMzMzJhZGIwMmNm%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+  "meetingDate": "2026-08-23",
+  "meetingTime": "10:00 AM",
+  "meetingHr": "03:00",
+  "meetingDeleted": 0,
+  "batchId": 1466,
+  "lecNumber": 8,
+  "isHoliday": 0,
+  "status": 1,
+  "hours": "3 Hours",
+  "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
+  "name": "HTC-AUG2026-DSAI-1",
+  "session_tag": "COMPLETED",
+  "subTopic": "Creating And Using Temporary Tables\nAdding Comments To Sql Code For Documentation\nIntroduction To Data Modeling\nDesigning A Simple Database Schema\nSorting Data With Order By (advanced)\nAdvanced Filtering With In, Or, And, Not\nPerforming Mathematical Operations On Data\nIntroduction To Aggregate Functions (count, Sum, Avg, Max, Min)\nGrouping Data With Group By\nFiltering Grouped Data With Having\nUnderstanding Subqueries And Their Types\nPerforming Join Operations (inner Join, Left Join, Right Join, Full Outer Join)\nUpdating And Deleting Data With Sql\nAnalyzing Data With Simple Statistics",
+  "sessionTime": "23 Aug, 2026",
+  "sessionplannedDate": "23 Aug, 2026",
+  "weekDay": 34,
+  "lectureMaterial": [
+    {
+      "file": "09_ADVANCEDSQLCONCEPTDATAMANUPULATION.pptx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B65252C4B-0532-4344-A7BA-5C80A0197DD6%7D&file=09_ADVANCEDSQLCONCEPTDATAMANUPULATION.pptx&action=edit&mobileredirect=true",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "pptx"
+    },
+    {
+      "file": "Sales_SQL_Questionnaire.docx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "docx"
+    },
+    {
+      "file": "Sales_SQL_Answer_Key.docx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "docx"
+    }
+  ],
+  "show_slot_selection": "no",
+  "bookSlotDetails": null,
+  "display": "no"
+}

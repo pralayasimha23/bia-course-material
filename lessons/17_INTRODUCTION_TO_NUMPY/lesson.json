@@ -1,0 +1,57 @@
+{
+  "plannedDate": "2026-09-26",
+  "id": 1549936,
+  "plannedStartTime": "10:00 AM",
+  "topic": "INTRODUCTION TO NUMPY",
+  "subtopic": "Intro To Numpy And Creating Numpy Array\nBasic Operations On Arrays\nIndexing & Slicing\nReshaping, Stacking & Splitting\nIteration, Filtering & Boolean Indexing\nImage Processing Using Numpy & Matplotlib",
+  "plannedTrainerName": "Diptanshu Chandan",
+  "actualTrainerName": "Diptanshu Chandan",
+  "actualDate": "2026-09-26",
+  "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQCgS7Gjk1UVTZK72Y3b7CbaAdd7OvCC_s0VOHZCY-cyoe8,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBqe-ygPCW2T4EydXE8GSKCAX26RBGe7lbl7bwM7XC7IJw,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBgpraog3qnR6U8dFlK5u0WAX-m42CWHqt8ksFYoN84tLs",
+  "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQwODgxMTYtNDI3OS00Y2I0LWFjMTYtYzYyYTNiMTYwZWVm%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+  "meetingDate": "2026-09-26",
+  "meetingTime": "10:00 AM",
+  "meetingHr": "03:00",
+  "meetingDeleted": 0,
+  "batchId": 1466,
+  "lecNumber": 17,
+  "isHoliday": 0,
+  "status": 1,
+  "hours": "3 Hours",
+  "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
+  "name": "HTC-AUG2026-DSAI-1",
+  "session_tag": "TODAY",
+  "subTopic": "Intro To Numpy And Creating Numpy Array\nBasic Operations On Arrays\nIndexing & Slicing\nReshaping, Stacking & Splitting\nIteration, Filtering & Boolean Indexing\nImage Processing Using Numpy & Matplotlib",
+  "sessionTime": "26 Sep, 2026",
+  "sessionplannedDate": "26 Sep, 2026",
+  "weekDay": 39,
+  "lectureMaterial": [
+    {
+      "file": "NUMPYFUNDAMENTALS.ipynb",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "ipynb"
+    },
+    {
+      "file": "beach.jpg",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "jpg"
+    },
+    {
+      "file": "eagle.jpeg",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "jpeg"
+    }
+  ],
+  "show_slot_selection": "yes",
+  "bookSlotDetails": 2,
+  "display": "yes"
+}

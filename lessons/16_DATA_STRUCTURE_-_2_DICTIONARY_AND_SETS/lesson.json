@@ -1,0 +1,41 @@
+{
+  "plannedDate": "2026-09-20",
+  "id": 1549935,
+  "plannedStartTime": "10:00 AM",
+  "topic": "DATA STRUCTURE - 2: DICTIONARY AND SETS",
+  "subtopic": "Creation Of Dictionaries\nBasic Operations On Dictionaries\nManipulating Dictionaries\nDictionary Comprehension For Concise Creation\nCreation Of Sets\nManipulating Sets\nCommon Operations On Both Dictionaries And Sets\nHands-on Activity",
+  "plannedTrainerName": "Diptanshu Chandan",
+  "actualTrainerName": "Diptanshu Chandan",
+  "actualDate": "2026-09-20",
+  "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQDXPAc0tLGxRZVIGRBubPoPAfQ5sMco2bJMvC4K8MeuWNs,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQAvx91PpeyATo3nLqrN1HgUAZ0jsC-RWeBaLe7LbrYP36k,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQDXkRq1do5PQpk9IYwnnPD-ARLPpR0A3lT9AVAtmJi4aKw,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQAVeVb8HcdoQrHTF9e1LM5xAXKWDlTzmCvfT2hkohQ_Rfo,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBnemcYcz-ESqfqJDE6H7Y5AWIS0_Ea_-wFbSUBJTDdaHI",
+  "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzA4ZDIyMmMtNzFlZC00MWEwLWE5ODgtYzI4MzJkODNiMThm%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+  "meetingDate": "2026-09-20",
+  "meetingTime": "10:00 AM",
+  "meetingHr": "03:00",
+  "meetingDeleted": 0,
+  "batchId": 1466,
+  "lecNumber": 16,
+  "isHoliday": 0,
+  "status": 1,
+  "hours": "3 Hours",
+  "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
+  "name": "HTC-AUG2026-DSAI-1",
+  "session_tag": "COMPLETED",
+  "subTopic": "Creation Of Dictionaries\nBasic Operations On Dictionaries\nManipulating Dictionaries\nDictionary Comprehension For Concise Creation\nCreation Of Sets\nManipulating Sets\nCommon Operations On Both Dictionaries And Sets\nHands-on Activity",
+  "sessionTime": "20 Sep, 2026",
+  "sessionplannedDate": "20 Sep, 2026",
+  "weekDay": 38,
+  "lectureMaterial": [
+    {
+      "file": "Datastructure2.ipynb",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "ipynb"
+    }
+  ],
+  "show_slot_selection": "no",
+  "bookSlotDetails": 2,
+  "display": "no"
+}

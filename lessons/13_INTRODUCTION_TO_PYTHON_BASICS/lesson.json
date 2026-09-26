@@ -1,0 +1,41 @@
+{
+  "plannedDate": "2026-09-12",
+  "id": 1549932,
+  "plannedStartTime": "10:00 AM",
+  "topic": "INTRODUCTION TO PYTHON BASICS",
+  "subtopic": "Overview Of Python\nUnderstanding Statements, Expressions, And Indentation.\nOverview Of Identifiers, Keywords, And Comments.\nVariables: Declaration, Assignment, And Naming Conventions.\nCommon Data Types: Integers, Floats, Strings.\nType Casting And Conversion.\nOperators In Python\nHands-on Activity",
+  "plannedTrainerName": "Diptanshu Chandan",
+  "actualTrainerName": "Diptanshu Chandan",
+  "actualDate": "2026-09-12",
+  "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQCVY9rZRZR7Q7wes6xC8wFGAZwp0SMILC1hDGA3O6k3cM8",
+  "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODViNjk0NWItZTIxMS00NWUyLTgxNTgtNDY3MWJjOWUzZTll%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+  "meetingDate": "2026-09-12",
+  "meetingTime": "10:00 AM",
+  "meetingHr": "03:00",
+  "meetingDeleted": 0,
+  "batchId": 1466,
+  "lecNumber": 13,
+  "isHoliday": 0,
+  "status": 1,
+  "hours": "3 Hours",
+  "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
+  "name": "HTC-AUG2026-DSAI-1",
+  "session_tag": "COMPLETED",
+  "subTopic": "Overview Of Python\nUnderstanding Statements, Expressions, And Indentation.\nOverview Of Identifiers, Keywords, And Comments.\nVariables: Declaration, Assignment, And Naming Conventions.\nCommon Data Types: Integers, Floats, Strings.\nType Casting And Conversion.\nOperators In Python\nHands-on Activity",
+  "sessionTime": "12 Sep, 2026",
+  "sessionplannedDate": "12 Sep, 2026",
+  "weekDay": 37,
+  "lectureMaterial": [
+    {
+      "file": "01_INTRODUCTIONTOPYTHONBASICS.pptx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BFB456D34-8EF1-484C-942F-61893C2DD184%7D&file=01_INTRODUCTIONTOPYTHONBASICS.pptx&action=edit&mobileredirect=true",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "pptx"
+    }
+  ],
+  "show_slot_selection": "no",
+  "bookSlotDetails": 1,
+  "display": "no"
+}

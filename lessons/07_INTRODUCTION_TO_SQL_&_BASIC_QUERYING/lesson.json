@@ -1,0 +1,57 @@
+{
+  "plannedDate": "2026-08-22",
+  "id": 1549930,
+  "plannedStartTime": "10:00 AM",
+  "topic": "INTRODUCTION TO SQL & BASIC QUERYING",
+  "subtopic": "What Is Sql And Its Significance?\nSql's Role In Data Retrieval And Manipulation\nBasic Select Statement For Data Retrieval\nRetrieving Specific Columns And All Columns\nUsing Distinct To Remove Duplicates\nIntroduction To Data Models & Er Diagrams\nRelational Vs. Transactional Models\nHow Data Is Organized In Tables\nFiltering Data With Where Clause\nSorting Data With Order By\nLimiting Results With Limit\nUsing Aliases For Column Names",
+  "plannedTrainerName": "Manmeet Bindra",
+  "actualTrainerName": "Manmeet Bindra",
+  "actualDate": "2026-08-22",
+  "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBQRr4FLONeSLfGGvXSiMsDAZXXP869n-o7M0IQERlZsD8,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQCjVNxX-tr5R7dK4ZLjrU_bATVEqBIHuLh7i-k9V3hnLgE,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQAv-GPXdQMVSYdw_17Mvxk0AcfSF4OxaSVEWlxSbdhtuuk",
+  "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Njc4MWNlMTEtMWZmMC00NDBiLWJkMmMtZGY5YjBmYzY0ZDIw%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+  "meetingDate": "2026-08-22",
+  "meetingTime": "10:00 AM",
+  "meetingHr": "03:00",
+  "meetingDeleted": 0,
+  "batchId": 1466,
+  "lecNumber": 7,
+  "isHoliday": 0,
+  "status": 1,
+  "hours": "3 Hours",
+  "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
+  "name": "HTC-AUG2026-DSAI-1",
+  "session_tag": "COMPLETED",
+  "subTopic": "What Is Sql And Its Significance?\nSql's Role In Data Retrieval And Manipulation\nBasic Select Statement For Data Retrieval\nRetrieving Specific Columns And All Columns\nUsing Distinct To Remove Duplicates\nIntroduction To Data Models & Er Diagrams\nRelational Vs. Transactional Models\nHow Data Is Organized In Tables\nFiltering Data With Where Clause\nSorting Data With Order By\nLimiting Results With Limit\nUsing Aliases For Column Names",
+  "sessionTime": "22 Aug, 2026",
+  "sessionplannedDate": "22 Aug, 2026",
+  "weekDay": 34,
+  "lectureMaterial": [
+    {
+      "file": "08_INTRODUCTIONTOSQLBASICQUERYING.pptx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B4BA7FAFC-90DA-41C0-A079-CADC4D078297%7D&file=08_INTRODUCTIONTOSQLBASICQUERYING.pptx&action=edit&mobileredirect=true",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "pptx"
+    },
+    {
+      "file": "Sales_Database.sql",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "sql"
+    },
+    {
+      "file": "Login_Database.sql",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "sql"
+    }
+  ],
+  "show_slot_selection": "no",
+  "bookSlotDetails": null,
+  "display": "no"
+}

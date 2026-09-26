@@ -1,0 +1,41 @@
+{
+  "plannedDate": "2026-08-08",
+  "id": 1549928,
+  "plannedStartTime": "10:00 AM",
+  "topic": "FUNDAMENTALS OF EXCEL",
+  "subtopic": "Overview Of Excel Interface\nBasic Functions On Provided Data Set - Sum, Sumif, Count, Countif, Average, Find, Concatenate, Len, Days, Counta, Vlookup, Hlookup, If, Iferror, Find/search, Left/right, Rank\nRanges And Tables\nData Cleaning - Text Functions, Dates And Times\nConditional Formatting\nSorting And Filtering\nSubtotals With Ranges",
+  "plannedTrainerName": "Manmeet Bindra",
+  "actualTrainerName": "Manmeet Bindra",
+  "actualDate": "2026-08-08",
+  "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQDClh4WiqTvR7IbH2aYqR2CATja90GrDi2iYZKsB-okSE0,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQCYkAdcEZFYSJpRqwwj2gknAZQcfg3Tzzync-TKx8wRjRY,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBglAYKXBaITrduD8oSWOO6AYQmtaMmp47RKRcnYqMoeo4,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQD95yCof9VNQ7ncR5JnwzgkAaeQ5aAJHe9ZfhDgNwQcJX0,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQDvLQd8sWjGRLIyqslVeij_AWELTbjh2Rx0IrDfL8EogyI,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQCZYC5AoFyLRrZrlEHjhO-SAX2QUsmeFBu6ryojTJXeTX8,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQDjfdampdONSp4ARIVW8AeKAQGjAZ_4a8PYOPJ3-tMUmXw",
+  "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2Q2ODVkZTMtNGNmMC00OTE5LTlhZTktNzI5OWZmNWQyM2Vi%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+  "meetingDate": "2026-08-08",
+  "meetingTime": "10:00 AM",
+  "meetingHr": "03:00",
+  "meetingDeleted": 0,
+  "batchId": 1466,
+  "lecNumber": 3,
+  "isHoliday": 0,
+  "status": 1,
+  "hours": "3 Hours",
+  "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
+  "name": "HTC-AUG2026-DSAI-1",
+  "session_tag": "COMPLETED",
+  "subTopic": "Overview Of Excel Interface\nBasic Functions On Provided Data Set - Sum, Sumif, Count, Countif, Average, Find, Concatenate, Len, Days, Counta, Vlookup, Hlookup, If, Iferror, Find/search, Left/right, Rank\nRanges And Tables\nData Cleaning - Text Functions, Dates And Times\nConditional Formatting\nSorting And Filtering\nSubtotals With Ranges",
+  "sessionTime": "8 Aug, 2026",
+  "sessionplannedDate": "8 Aug, 2026",
+  "weekDay": 32,
+  "lectureMaterial": [
+    {
+      "file": "IF_IFS_VLOOKUP_Practice.xlsx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "xlsx"
+    }
+  ],
+  "show_slot_selection": "no",
+  "bookSlotDetails": 1,
+  "display": "no"
+}

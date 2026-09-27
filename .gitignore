@@ -7,3 +7,9 @@ node_modules/
 *.log
 apis_intercepted.json
 .playwright/
+sharepoint_auth.json
+materials_archive.zip
+onedrive_view.png
+scratch_*.py
+test_*.py
+

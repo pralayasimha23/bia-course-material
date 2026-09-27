@@ -5,10 +5,10 @@
 ## 📊 Curriculum Statistics
 - **Batch:** `HTC-AUG2026-DSAI-1`
 - **Total Curriculum Lectures:** 41
-- **Completed / Active Lessons:** 12
+- **Completed / Active Lessons:** 13
 - **Total Recorded Video Parts:** 31
-- **Total Attached Materials/Notes:** 16
-- **Last Synchronized:** `2026-09-26 21:57:56 IST`
+- **Total Attached Materials/Notes:** 21
+- **Last Synchronized:** `2026-09-27 09:58:56 IST`
 
 ## 🗓️ Master Class Schedule & Archive Index
 
@@ -30,8 +30,8 @@
 | #14 | 2026-09-13 | [LOOPS, FUNCTIONS, ERROR HANDLING](lessons/14_LOOPS,_FUNCTIONS,_ERROR_HANDLING/README.md) | Diptanshu Chandan | `COMPLETED` | [1 Videos](lessons/14_LOOPS,_FUNCTIONS,_ERROR_HANDLING/recordings.md) | - |
 | #15 | 2026-09-19 | [DATA STRUCTURE - 1: LIST AND TUPLE](lessons/15_DATA_STRUCTURE_-_1_LIST_AND_TUPLE/README.md) | Diptanshu Chandan | `COMPLETED` | [2 Videos](lessons/15_DATA_STRUCTURE_-_1_LIST_AND_TUPLE/recordings.md) | [1 Files](lessons/15_DATA_STRUCTURE_-_1_LIST_AND_TUPLE/materials.md) |
 | #16 | 2026-09-20 | [DATA STRUCTURE - 2: DICTIONARY AND SETS](lessons/16_DATA_STRUCTURE_-_2_DICTIONARY_AND_SETS/README.md) | Diptanshu Chandan | `COMPLETED` | [5 Videos](lessons/16_DATA_STRUCTURE_-_2_DICTIONARY_AND_SETS/recordings.md) | [1 Files](lessons/16_DATA_STRUCTURE_-_2_DICTIONARY_AND_SETS/materials.md) |
-| #17 | 2026-09-26 | [INTRODUCTION TO NUMPY](lessons/17_INTRODUCTION_TO_NUMPY/README.md) | Diptanshu Chandan | `TODAY` | [3 Videos](lessons/17_INTRODUCTION_TO_NUMPY/recordings.md) | [3 Files](lessons/17_INTRODUCTION_TO_NUMPY/materials.md) |
-| #18 | 2026-09-27 | [INTRODUCTION TO PANDAS AND DATA VISUALIZATION](lessons/18_INTRODUCTION_TO_PANDAS_AND_DATA_VISUALIZATION/README.md) | Diptanshu Chandan | UPCOMING | - | - |
+| #17 | 2026-09-26 | [INTRODUCTION TO NUMPY](lessons/17_INTRODUCTION_TO_NUMPY/README.md) | Diptanshu Chandan | `COMPLETED` | [3 Videos](lessons/17_INTRODUCTION_TO_NUMPY/recordings.md) | [3 Files](lessons/17_INTRODUCTION_TO_NUMPY/materials.md) |
+| #18 | 2026-09-27 | [INTRODUCTION TO PANDAS AND DATA VISUALIZATION](lessons/18_INTRODUCTION_TO_PANDAS_AND_DATA_VISUALIZATION/README.md) | Diptanshu Chandan | `TODAY` | - | [5 Files](lessons/18_INTRODUCTION_TO_PANDAS_AND_DATA_VISUALIZATION/materials.md) |
 | #19 | 2026-10-03 | [FUNDAMENTALS OF STATISTICS & PROBABILITY](lessons/19_FUNDAMENTALS_OF_STATISTICS_&_PROBABILITY/README.md) | To be assigned | ONGOING | - | - |
 | #20 | 2026-10-04 | [ADAVANCED STATISTIC & HYPOTHESIS TESTING](lessons/20_ADAVANCED_STATISTIC_&_HYPOTHESIS_TESTING/README.md) | To be assigned | ONGOING | - | - |
 | #21 | 2026-10-10 | [INTRODUCTION TO MACHINE LEARNING AND REGRESSION BASICS](lessons/21_INTRODUCTION_TO_MACHINE_LEARNING_AND_REGRESSION_BASICS/README.md) | To be assigned | ONGOING | - | - |

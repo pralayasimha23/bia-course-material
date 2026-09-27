@@ -20,7 +20,7 @@
   "hours": "3 Hours",
   "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
   "name": "HTC-AUG2026-DSAI-1",
-  "session_tag": "TODAY",
+  "session_tag": "COMPLETED",
   "subTopic": "Intro To Numpy And Creating Numpy Array\nBasic Operations On Arrays\nIndexing & Slicing\nReshaping, Stacking & Splitting\nIteration, Filtering & Boolean Indexing\nImage Processing Using Numpy & Matplotlib",
   "sessionTime": "26 Sep, 2026",
   "sessionplannedDate": "26 Sep, 2026",
@@ -53,5 +53,5 @@
   ],
   "show_slot_selection": "yes",
   "bookSlotDetails": 2,
-  "display": "yes"
+  "display": "no"
 }

@@ -35,5 +35,5 @@ Total parts recorded: **1**
 - [▶️ Watch Recording Part 1](https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBLW9-9OKOYQbinnfeTAoIZAR_1YZYxgkTnUAFLy8Pqqz4)
 
 ## 📝 Class Notes & Lecture Materials
-*No individual files attached. General batch materials can be viewed in the [SharePoint Academics Directory](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1).*
+*No individual files attached. General batch materials can be viewed in the [SharePoint Academics Directory](https://bostoninstituteofanalyti399-my.sharepoint.com/).*
 

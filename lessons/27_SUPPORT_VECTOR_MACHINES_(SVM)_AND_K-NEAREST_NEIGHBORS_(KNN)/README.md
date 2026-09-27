@@ -26,5 +26,5 @@
 *No recording links uploaded for this session yet.*
 
 ## 📝 Class Notes & Lecture Materials
-*No individual files attached. General batch materials can be viewed in the [SharePoint Academics Directory](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1).*
+*No individual files attached. General batch materials can be viewed in the [SharePoint Academics Directory](https://bostoninstituteofanalyti399-my.sharepoint.com/).*
 

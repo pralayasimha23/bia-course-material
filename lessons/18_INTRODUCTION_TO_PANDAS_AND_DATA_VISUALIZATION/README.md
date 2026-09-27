@@ -1,13 +1,13 @@
 # Lesson #18: INTRODUCTION TO PANDAS AND DATA VISUALIZATION
 
-**Status:** `UPCOMING` | **Date:** 2026-09-27 | **Duration:** 3 Hours
+**Status:** `TODAY` | **Date:** 2026-09-27 | **Duration:** 3 Hours
 
 ## 📌 Session Overview
 | Field | Details |
 | :--- | :--- |
 | **Lesson Number** | #18 |
 | **Topic** | INTRODUCTION TO PANDAS AND DATA VISUALIZATION |
-| **Status** | `UPCOMING` |
+| **Status** | `TODAY` |
 | **Planned Date** | 2026-09-27 |
 | **Actual Date** | 2026-09-27 |
 | **Trainer** | Diptanshu Chandan |
@@ -27,5 +27,11 @@
 *No recording links uploaded for this session yet.*
 
 ## 📝 Class Notes & Lecture Materials
-*No individual files attached. General batch materials can be viewed in the [SharePoint Academics Directory](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1).*
+| Type | File Name | Link / Download |
+| :--- | :--- | :--- |
+| `IPYNB` (In Class Material) | `DataManipulationwithpandasandDataVisualization.ipynb` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
+| `CSV` (In Class Material) | `ny_weather.csv` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BCB72CDBC-E3B8-4BD7-8212-7404315EC140%7D&file=ny_weather.csv&action=default&mobileredirect=true) |
+| `CSV` (In Class Material) | `professors.csv` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BE0EA437A-2BFC-47B9-A7A9-506B21962A1F%7D&file=professors.csv&action=default&mobileredirect=true) |
+| `CSV` (In Class Material) | `students.csv` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B0635EB6E-F426-4A67-8050-F24AB3F6827B%7D&file=students.csv&action=default&mobileredirect=true) |
+| `CSV` (In Class Material) | `data.csv` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B944AA4C7-9A8E-4FC0-9AAE-2F1C82C394CD%7D&file=data.csv&action=default&mobileredirect=true) |
 

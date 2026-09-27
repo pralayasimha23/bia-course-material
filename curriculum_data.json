@@ -1,107 +1,7 @@
 {
-  "last_synced": "2026-09-26T21:57:56.098811",
+  "last_synced": "2026-09-27T09:58:56.283698",
   "total_lectures": 41,
-  "dashboard": {
-    "overView": {
-      "weekDays": {
-        "refresherSessionsCnt": {
-          "totalCnt": 8,
-          "attendedCnt": 1,
-          "percentage": "12.50"
-        },
-        "exclusiveSessionsCnt": {
-          "totalCnt": 43,
-          "attendedCnt": 8,
-          "percentage": "18.60"
-        },
-        "doubtbusterSessionsCnt": {
-          "totalCnt": 8,
-          "attendedCnt": 2,
-          "percentage": "25.00"
-        },
-        "careerPrepSessionsCnt": {
-          "totalCnt": 5,
-          "attendedCnt": 1,
-          "percentage": "20.00"
-        },
-        "overall": {
-          "totalCnt": 64,
-          "attendedCnt": 12,
-          "percentage": "18.75"
-        }
-      },
-      "weekEnd": {
-        "totalLectures": 36,
-        "completedLectures": 12,
-        "onlineLectures": 4,
-        "offlineLectures": 5,
-        "notAttendeeLectures": 3
-      }
-    },
-    "upcomingLectures": [
-      {
-        "plannedDate": "2026-09-26",
-        "id": 1549936,
-        "plannedStartTime": "10:00 AM",
-        "topic": "INTRODUCTION TO NUMPY",
-        "subtopic": "Intro To Numpy And Creating Numpy Array\nBasic Operations On Arrays\nIndexing & Slicing\nReshaping, Stacking & Splitting\nIteration, Filtering & Boolean Indexing\nImage Processing Using Numpy & Matplotlib",
-        "isHoliday": 0,
-        "batchId": 1466,
-        "lecNumber": 17,
-        "status": 1,
-        "hours": "03:00",
-        "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
-        "plannedTrainerName": "Diptanshu Chandan",
-        "actualTrainerName": "Diptanshu Chandan",
-        "actualDate": "2026-09-26",
-        "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQCgS7Gjk1UVTZK72Y3b7CbaAdd7OvCC_s0VOHZCY-cyoe8,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBqe-ygPCW2T4EydXE8GSKCAX26RBGe7lbl7bwM7XC7IJw,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBgpraog3qnR6U8dFlK5u0WAX-m42CWHqt8ksFYoN84tLs",
-        "onlineId": 27579,
-        "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQwODgxMTYtNDI3OS00Y2I0LWFjMTYtYzYyYTNiMTYwZWVm%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
-        "meetingDate": "2026-09-26",
-        "meetingTime": "10:00 AM",
-        "meetingHr": "03:00",
-        "meetingDeleted": 0,
-        "batchName": "HTC-AUG2026-DSAI-1",
-        "cancellationReason": null,
-        "bookSlotDetails": 2,
-        "subTopic": "Intro To Numpy And Creating Numpy Array\nBasic Operations On Arrays\nIndexing & Slicing\nReshaping, Stacking & Splitting\nIteration, Filtering & Boolean Indexing\nImage Processing Using Numpy & Matplotlib",
-        "lectureDate": "26 Sep, 2026",
-        "lectureDay": "Saturday"
-      },
-      {
-        "plannedDate": "2026-09-27",
-        "id": 1549937,
-        "plannedStartTime": "10:00 AM",
-        "topic": "INTRODUCTION TO PANDAS AND DATA VISUALIZATION",
-        "subtopic": "Data Structure In Pandas\nCreating Dataframe & Loading Files\nData Exploration (eda)\nCreating & Saving Basic Plots Using Matplotlib\nCreating Statistical Plots Using Seaborn\nExploring Relationships In Data: Pair Plot & Heat Map\nHands-on Activity",
-        "isHoliday": 0,
-        "batchId": 1466,
-        "lecNumber": 18,
-        "status": 0,
-        "hours": "03:00",
-        "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
-        "plannedTrainerName": "Diptanshu Chandan",
-        "actualTrainerName": null,
-        "actualDate": null,
-        "videoLink": null,
-        "onlineId": 27580,
-        "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODEwODY5MjctZDQwYS00Y2I4LTg5OTUtNGI5YTljOWMyNGFh%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
-        "meetingDate": "2026-09-27",
-        "meetingTime": "10:00 AM",
-        "meetingHr": "03:00",
-        "meetingDeleted": 0,
-        "batchName": "HTC-AUG2026-DSAI-1",
-        "cancellationReason": null,
-        "bookSlotDetails": 2,
-        "subTopic": "Data Structure In Pandas\nCreating Dataframe & Loading Files\nData Exploration (eda)\nCreating & Saving Basic Plots Using Matplotlib\nCreating Statistical Plots Using Seaborn\nExploring Relationships In Data: Pair Plot & Heat Map\nHands-on Activity",
-        "lectureDate": "27 Sep, 2026",
-        "lectureDay": "Sunday"
-      }
-    ],
-    "specialSessions": [],
-    "lastLectureCompleted": false,
-    "classNotes": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1"
-  },
+  "dashboard": {},
   "allLectures": [
     {
       "plannedDate": "2026-08-01",
@@ -749,7 +649,7 @@
       "hours": "3 Hours",
       "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
       "name": "HTC-AUG2026-DSAI-1",
-      "session_tag": "TODAY",
+      "session_tag": "COMPLETED",
       "subTopic": "Intro To Numpy And Creating Numpy Array\nBasic Operations On Arrays\nIndexing & Slicing\nReshaping, Stacking & Splitting\nIteration, Filtering & Boolean Indexing\nImage Processing Using Numpy & Matplotlib",
       "sessionTime": "26 Sep, 2026",
       "sessionplannedDate": "26 Sep, 2026",
@@ -782,7 +682,7 @@
       ],
       "show_slot_selection": "yes",
       "bookSlotDetails": 2,
-      "display": "yes"
+      "display": "no"
     },
     {
       "plannedDate": "2026-09-27",
@@ -791,8 +691,8 @@
       "topic": "INTRODUCTION TO PANDAS AND DATA VISUALIZATION",
       "subtopic": "Data Structure In Pandas\nCreating Dataframe & Loading Files\nData Exploration (eda)\nCreating & Saving Basic Plots Using Matplotlib\nCreating Statistical Plots Using Seaborn\nExploring Relationships In Data: Pair Plot & Heat Map\nHands-on Activity",
       "plannedTrainerName": "Diptanshu Chandan",
-      "actualTrainerName": null,
-      "actualDate": null,
+      "actualTrainerName": "Diptanshu Chandan",
+      "actualDate": "2026-09-27",
       "videoLink": null,
       "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODEwODY5MjctZDQwYS00Y2I4LTg5OTUtNGI5YTljOWMyNGFh%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
       "meetingDate": "2026-09-27",
@@ -802,19 +702,60 @@
       "batchId": 1466,
       "lecNumber": 18,
       "isHoliday": 0,
-      "status": 0,
+      "status": 1,
       "hours": "3 Hours",
       "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
       "name": "HTC-AUG2026-DSAI-1",
-      "session_tag": "UPCOMING",
+      "session_tag": "TODAY",
       "subTopic": "Data Structure In Pandas\nCreating Dataframe & Loading Files\nData Exploration (eda)\nCreating & Saving Basic Plots Using Matplotlib\nCreating Statistical Plots Using Seaborn\nExploring Relationships In Data: Pair Plot & Heat Map\nHands-on Activity",
       "sessionTime": "27 Sep, 2026",
       "sessionplannedDate": "27 Sep, 2026",
       "weekDay": 39,
-      "lectureMaterial": [],
+      "lectureMaterial": [
+        {
+          "file": "DataManipulationwithpandasandDataVisualization.ipynb",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "ipynb"
+        },
+        {
+          "file": "ny_weather.csv",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BCB72CDBC-E3B8-4BD7-8212-7404315EC140%7D&file=ny_weather.csv&action=default&mobileredirect=true",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "csv"
+        },
+        {
+          "file": "professors.csv",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BE0EA437A-2BFC-47B9-A7A9-506B21962A1F%7D&file=professors.csv&action=default&mobileredirect=true",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "csv"
+        },
+        {
+          "file": "students.csv",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B0635EB6E-F426-4A67-8050-F24AB3F6827B%7D&file=students.csv&action=default&mobileredirect=true",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "csv"
+        },
+        {
+          "file": "data.csv",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B944AA4C7-9A8E-4FC0-9AAE-2F1C82C394CD%7D&file=data.csv&action=default&mobileredirect=true",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "csv"
+        }
+      ],
       "show_slot_selection": "yes",
       "bookSlotDetails": 2,
-      "display": "no"
+      "display": "yes"
     },
     {
       "plannedDate": "2026-10-03",

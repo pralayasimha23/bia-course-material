@@ -1,13 +1,13 @@
 # Lesson #17: INTRODUCTION TO NUMPY
 
-**Status:** `TODAY` | **Date:** 2026-09-26 | **Duration:** 3 Hours
+**Status:** `COMPLETED` | **Date:** 2026-09-26 | **Duration:** 3 Hours
 
 ## 📌 Session Overview
 | Field | Details |
 | :--- | :--- |
 | **Lesson Number** | #17 |
 | **Topic** | INTRODUCTION TO NUMPY |
-| **Status** | `TODAY` |
+| **Status** | `COMPLETED` |
 | **Planned Date** | 2026-09-26 |
 | **Actual Date** | 2026-09-26 |
 | **Trainer** | Diptanshu Chandan |

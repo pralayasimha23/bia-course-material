@@ -1,13 +1,13 @@
 # Lesson #20: ADAVANCED STATISTIC & HYPOTHESIS TESTING
 
-**Status:** `ONGOING` | **Date:** 2026-10-04 | **Duration:** 3 Hours
+**Status:** `UPCOMING` | **Date:** 2026-10-04 | **Duration:** 3 Hours
 
 ## 📌 Session Overview
 | Field | Details |
 | :--- | :--- |
 | **Lesson Number** | #20 |
 | **Topic** | ADAVANCED STATISTIC & HYPOTHESIS TESTING |
-| **Status** | `ONGOING` |
+| **Status** | `UPCOMING` |
 | **Planned Date** | 2026-10-04 |
 | **Actual Date** | 2026-10-04 |
 | **Trainer** | To be assigned |

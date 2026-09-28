@@ -1,13 +1,13 @@
 # Lesson #19: FUNDAMENTALS OF STATISTICS & PROBABILITY
 
-**Status:** `ONGOING` | **Date:** 2026-10-03 | **Duration:** 3 Hours
+**Status:** `UPCOMING` | **Date:** 2026-10-03 | **Duration:** 3 Hours
 
 ## 📌 Session Overview
 | Field | Details |
 | :--- | :--- |
 | **Lesson Number** | #19 |
 | **Topic** | FUNDAMENTALS OF STATISTICS & PROBABILITY |
-| **Status** | `ONGOING` |
+| **Status** | `UPCOMING` |
 | **Planned Date** | 2026-10-03 |
 | **Actual Date** | 2026-10-03 |
 | **Trainer** | To be assigned |

@@ -1,7 +1,7 @@
 {
   "plannedDate": "2026-10-03",
   "id": 1549938,
-  "plannedStartTime": null,
+  "plannedStartTime": "10:00 AM",
   "topic": "FUNDAMENTALS OF STATISTICS & PROBABILITY",
   "subtopic": "Define Statistics And Its Importance.\nExplain The Types Of Data: Categorical And Numerical.\nInferential And Descriptive Statistics\nMeasure Of Central Tendency: Mean, Median, Mode.\nMeasure Of Dispersion: Variance & Standard Deviation\nProbability Basics, It's Rules & Notation\nProbability Distribution -discrete & Continuous\nNormal Distribution & Properties\nCentral Limit Theorem & Its Importance\nSkewness & T-distributions",
   "plannedTrainerName": null,
@@ -20,13 +20,13 @@
   "hours": "3 Hours",
   "venue": null,
   "name": "HTC-AUG2026-DSAI-1",
-  "session_tag": "ONGOING",
+  "session_tag": "UPCOMING",
   "subTopic": "Define Statistics And Its Importance.\nExplain The Types Of Data: Categorical And Numerical.\nInferential And Descriptive Statistics\nMeasure Of Central Tendency: Mean, Median, Mode.\nMeasure Of Dispersion: Variance & Standard Deviation\nProbability Basics, It's Rules & Notation\nProbability Distribution -discrete & Continuous\nNormal Distribution & Properties\nCentral Limit Theorem & Its Importance\nSkewness & T-distributions",
   "sessionTime": "3 Oct, 2026",
   "sessionplannedDate": "3 Oct, 2026",
   "weekDay": 40,
   "lectureMaterial": [],
-  "show_slot_selection": "no",
+  "show_slot_selection": "yes",
   "bookSlotDetails": null,
-  "display": "no"
+  "display": "yes"
 }

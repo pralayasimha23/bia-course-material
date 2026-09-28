@@ -51,7 +51,7 @@
       "extension": "jpeg"
     }
   ],
-  "show_slot_selection": "yes",
+  "show_slot_selection": "no",
   "bookSlotDetails": 2,
   "display": "no"
 }

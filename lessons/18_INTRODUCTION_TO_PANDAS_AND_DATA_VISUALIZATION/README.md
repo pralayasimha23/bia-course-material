@@ -1,13 +1,13 @@
 # Lesson #18: INTRODUCTION TO PANDAS AND DATA VISUALIZATION
 
-**Status:** `TODAY` | **Date:** 2026-09-27 | **Duration:** 3 Hours
+**Status:** `COMPLETED` | **Date:** 2026-09-27 | **Duration:** 3 Hours
 
 ## 📌 Session Overview
 | Field | Details |
 | :--- | :--- |
 | **Lesson Number** | #18 |
 | **Topic** | INTRODUCTION TO PANDAS AND DATA VISUALIZATION |
-| **Status** | `TODAY` |
+| **Status** | `COMPLETED` |
 | **Planned Date** | 2026-09-27 |
 | **Actual Date** | 2026-09-27 |
 | **Trainer** | Diptanshu Chandan |
@@ -24,7 +24,11 @@
 - Hands-on Activity
 
 ## 🎥 Lecture Recordings
-*No recording links uploaded for this session yet.*
+Total parts recorded: **3**
+
+- [▶️ Watch Recording Part 1](https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQB6eVaUnneHRKrxZlzZdVZGAUjnMtRNce_poTXQUU7XvHc)
+- [▶️ Watch Recording Part 2](https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBCc29a0BxyQaC3zhr1p4KKAX-7tVDRGZvReHVrkmq43Ww)
+- [▶️ Watch Recording Part 3](https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQCwTDCObwViTLJW2p2X17XaAYoSGrncqM1qiZfPPrXQRbU)
 
 ## 📝 Class Notes & Lecture Materials
 | Type | File Name | Link / Download |

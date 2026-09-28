@@ -7,7 +7,7 @@
   "plannedTrainerName": "Diptanshu Chandan",
   "actualTrainerName": "Diptanshu Chandan",
   "actualDate": "2026-09-27",
-  "videoLink": null,
+  "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQB6eVaUnneHRKrxZlzZdVZGAUjnMtRNce_poTXQUU7XvHc,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBCc29a0BxyQaC3zhr1p4KKAX-7tVDRGZvReHVrkmq43Ww,https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQCwTDCObwViTLJW2p2X17XaAYoSGrncqM1qiZfPPrXQRbU",
   "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODEwODY5MjctZDQwYS00Y2I4LTg5OTUtNGI5YTljOWMyNGFh%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
   "meetingDate": "2026-09-27",
   "meetingTime": "10:00 AM",
@@ -20,7 +20,7 @@
   "hours": "3 Hours",
   "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
   "name": "HTC-AUG2026-DSAI-1",
-  "session_tag": "TODAY",
+  "session_tag": "COMPLETED",
   "subTopic": "Data Structure In Pandas\nCreating Dataframe & Loading Files\nData Exploration (eda)\nCreating & Saving Basic Plots Using Matplotlib\nCreating Statistical Plots Using Seaborn\nExploring Relationships In Data: Pair Plot & Heat Map\nHands-on Activity",
   "sessionTime": "27 Sep, 2026",
   "sessionplannedDate": "27 Sep, 2026",
@@ -67,7 +67,7 @@
       "extension": "csv"
     }
   ],
-  "show_slot_selection": "yes",
+  "show_slot_selection": "no",
   "bookSlotDetails": 2,
-  "display": "yes"
+  "display": "no"
 }

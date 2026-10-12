@@ -1,5 +1,5 @@
 {
-  "last_synced": "2026-10-05T11:05:34.702351",
+  "last_synced": "2026-10-12T11:33:58.449808",
   "total_lectures": 41,
   "dashboard": {},
   "allLectures": [
@@ -615,6 +615,14 @@
       "weekDay": 38,
       "lectureMaterial": [
         {
+          "file": "04_DATASTRUCTURE-2-DICTIONARYANDSETS.pptx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B1623AE02-2DB3-4912-943D-B6B02F0915F3%7D&file=04_DATASTRUCTURE-2-DICTIONARYANDSETS.pptx&action=edit&mobileredirect=true",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "pptx"
+        },
+        {
           "file": "Datastructure2.ipynb",
           "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
           "type": 3,
@@ -662,6 +670,14 @@
           "status": 1,
           "materialType": "In Class Material",
           "extension": "ipynb"
+        },
+        {
+          "file": "06_NUMPYFUNDAMENTALS.pptx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BE7E0A8CB-9C72-4123-A5FC-D39AF1FC4BB0%7D&file=06_NUMPYFUNDAMENTALS.pptx&action=edit&mobileredirect=true",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "pptx"
         },
         {
           "file": "beach.jpg",
@@ -713,6 +729,14 @@
       "weekDay": 39,
       "lectureMaterial": [
         {
+          "file": "DataManipulationwithPandasVisualization.ipynb",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "ipynb"
+        },
+        {
           "file": "DataManipulationwithpandasandDataVisualization.ipynb",
           "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
           "type": 3,
@@ -751,6 +775,22 @@
           "status": 1,
           "materialType": "In Class Material",
           "extension": "csv"
+        },
+        {
+          "file": "database.db",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "db"
+        },
+        {
+          "file": "data.json",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "json"
         }
       ],
       "show_slot_selection": "no",
@@ -785,6 +825,14 @@
       "sessionplannedDate": "3 Oct, 2026",
       "weekDay": 40,
       "lectureMaterial": [
+        {
+          "file": "data.json",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "json"
+        },
         {
           "file": "data_practice2.csv",
           "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B11AD3354-58F7-44FF-9BB9-407A2EC715DC%7D&file=data_practice2.csv&action=default&mobileredirect=true",
@@ -833,65 +881,155 @@
     {
       "plannedDate": "2026-10-10",
       "id": 1549942,
-      "plannedStartTime": null,
+      "plannedStartTime": "10:00 AM",
       "topic": "INTRODUCTION TO MACHINE LEARNING AND REGRESSION BASICS",
       "subtopic": "Intro To Ml & Its Role In Data Analysis\nTypes Of Machine Learning - Supervised, Unsupervised & Reinforcement \nData Preproccesing - Handling The Missing Values, Outlier & Methods To Handle Outliers - Iqr Method & Z Method\nFeature Scaling\nLinear Regression As Regression Technique\nSimple Linear Regression",
-      "plannedTrainerName": null,
-      "actualTrainerName": null,
-      "actualDate": null,
-      "videoLink": null,
-      "meetingLink": null,
-      "meetingDate": null,
-      "meetingTime": null,
-      "meetingHr": null,
-      "meetingDeleted": null,
+      "plannedTrainerName": "Diptanshu Chandan",
+      "actualTrainerName": "Diptanshu Chandan",
+      "actualDate": "2026-10-10",
+      "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBm93lmqw1mSYUqSKlyrMZqAeiIeO0m4bGTYvS41i_Nu3I",
+      "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTQ0ODY4MWUtZDM4OC00OGEzLWIxYzYtM2IwNDFmMGMzZTY3%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+      "meetingDate": "2026-10-10",
+      "meetingTime": "10:00 AM",
+      "meetingHr": "03:00",
+      "meetingDeleted": 0,
       "batchId": 1466,
       "lecNumber": 21,
       "isHoliday": 0,
-      "status": 0,
+      "status": 1,
       "hours": "3 Hours",
-      "venue": null,
+      "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
       "name": "HTC-AUG2026-DSAI-1",
-      "session_tag": "ONGOING",
+      "session_tag": "COMPLETED",
       "subTopic": "Intro To Ml & Its Role In Data Analysis\nTypes Of Machine Learning - Supervised, Unsupervised & Reinforcement \nData Preproccesing - Handling The Missing Values, Outlier & Methods To Handle Outliers - Iqr Method & Z Method\nFeature Scaling\nLinear Regression As Regression Technique\nSimple Linear Regression",
       "sessionTime": "10 Oct, 2026",
       "sessionplannedDate": "10 Oct, 2026",
       "weekDay": 41,
-      "lectureMaterial": [],
-      "show_slot_selection": "yes",
-      "bookSlotDetails": null,
-      "display": "yes"
+      "lectureMaterial": [
+        {
+          "file": "Statistics_Fundamentals_Practical.ipynb",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "ipynb"
+        },
+        {
+          "file": "LinearRegression-StudentPerformance.ipynb",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "ipynb"
+        },
+        {
+          "file": "Introduction_to_Machine_Learning_Lecture.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "docx"
+        },
+        {
+          "file": "Housing.csv",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B95DFB69C-834D-4595-9243-90883F5F0A2D%7D&file=Housing.csv&action=default&mobileredirect=true",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "csv"
+        },
+        {
+          "file": "MultipleLR-HousingDataset.ipynb",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "ipynb"
+        },
+        {
+          "file": "Advanced_Statistics_Hypothesis_Testing_Practical.ipynb",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "ipynb"
+        },
+        {
+          "file": "AdvancedStatisticHypothesisTesting.pptx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B4B405881-8775-43F5-9DD7-C753C89F7BC3%7D&file=AdvancedStatisticHypothesisTesting.pptx&action=edit&mobileredirect=true",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "pptx"
+        },
+        {
+          "file": "Statistics_Lecture_Guide.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "docx"
+        },
+        {
+          "file": "FundamentalsofStatisticsProbability.pptx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B51A9F228-517A-4ACF-9D7C-BCCD5790383F%7D&file=FundamentalsofStatisticsProbability.pptx&action=edit&mobileredirect=true",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "pptx"
+        }
+      ],
+      "show_slot_selection": "no",
+      "bookSlotDetails": 2,
+      "display": "no"
     },
     {
       "plannedDate": "2026-10-11",
       "id": 1549943,
-      "plannedStartTime": null,
+      "plannedStartTime": "10:00 AM",
       "topic": "MULTIPLE LINEAR REGRESSION & MODEL EVALUATION",
       "subtopic": "Model Evaluation Metrics For Regression\nMean Absolute Error (mae)\nMean Squared Error (mse)\nRoot Mean Squared Error (rmse)\nR-squared (coefficient Of Determination)\nMultiple Linear Regression\nInbuilt Dataset\nCaifornia Housing Dataset - Model Evaluation",
-      "plannedTrainerName": null,
-      "actualTrainerName": null,
-      "actualDate": null,
-      "videoLink": null,
-      "meetingLink": null,
-      "meetingDate": null,
-      "meetingTime": null,
-      "meetingHr": null,
-      "meetingDeleted": null,
+      "plannedTrainerName": "Diptanshu Chandan",
+      "actualTrainerName": "Diptanshu Chandan",
+      "actualDate": "2026-10-11",
+      "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQCADA8Tz1xiSZszVB9N0o3fARXKjhM6sEM_iD6VaRBXUuU",
+      "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTQzMzVmOGItYzgyNy00N2Y5LWJmZmEtOWVmNzlhYTdmMzhj%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+      "meetingDate": "2026-10-11",
+      "meetingTime": "10:00 AM",
+      "meetingHr": "03:00",
+      "meetingDeleted": 0,
       "batchId": 1466,
       "lecNumber": 22,
       "isHoliday": 0,
       "status": 0,
       "hours": "3 Hours",
-      "venue": null,
+      "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
       "name": "HTC-AUG2026-DSAI-1",
-      "session_tag": "ONGOING",
+      "session_tag": "COMPLETED",
       "subTopic": "Model Evaluation Metrics For Regression\nMean Absolute Error (mae)\nMean Squared Error (mse)\nRoot Mean Squared Error (rmse)\nR-squared (coefficient Of Determination)\nMultiple Linear Regression\nInbuilt Dataset\nCaifornia Housing Dataset - Model Evaluation",
       "sessionTime": "11 Oct, 2026",
       "sessionplannedDate": "11 Oct, 2026",
       "weekDay": 41,
-      "lectureMaterial": [],
-      "show_slot_selection": "yes",
-      "bookSlotDetails": null,
+      "lectureMaterial": [
+        {
+          "file": "MultipleLR-HousingDataset.ipynb",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "ipynb"
+        },
+        {
+          "file": "Linear_Regression_Lecture_Guide.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "docx"
+        }
+      ],
+      "show_slot_selection": "no",
+      "bookSlotDetails": 2,
       "display": "no"
     },
     {
@@ -922,9 +1060,9 @@
       "sessionplannedDate": "17 Oct, 2026",
       "weekDay": 42,
       "lectureMaterial": [],
-      "show_slot_selection": "no",
+      "show_slot_selection": "yes",
       "bookSlotDetails": null,
-      "display": "no"
+      "display": "yes"
     },
     {
       "plannedDate": "2026-10-18",
@@ -954,7 +1092,7 @@
       "sessionplannedDate": "18 Oct, 2026",
       "weekDay": 42,
       "lectureMaterial": [],
-      "show_slot_selection": "no",
+      "show_slot_selection": "yes",
       "bookSlotDetails": null,
       "display": "no"
     },

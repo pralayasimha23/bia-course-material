@@ -27,6 +27,14 @@
   "weekDay": 39,
   "lectureMaterial": [
     {
+      "file": "DataManipulationwithPandasVisualization.ipynb",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "ipynb"
+    },
+    {
       "file": "DataManipulationwithpandasandDataVisualization.ipynb",
       "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
       "type": 3,
@@ -65,6 +73,22 @@
       "status": 1,
       "materialType": "In Class Material",
       "extension": "csv"
+    },
+    {
+      "file": "database.db",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "db"
+    },
+    {
+      "file": "data.json",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "json"
     }
   ],
   "show_slot_selection": "no",

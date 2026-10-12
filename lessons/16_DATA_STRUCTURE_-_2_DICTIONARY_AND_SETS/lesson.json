@@ -27,6 +27,14 @@
   "weekDay": 38,
   "lectureMaterial": [
     {
+      "file": "04_DATASTRUCTURE-2-DICTIONARYANDSETS.pptx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B1623AE02-2DB3-4912-943D-B6B02F0915F3%7D&file=04_DATASTRUCTURE-2-DICTIONARYANDSETS.pptx&action=edit&mobileredirect=true",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "pptx"
+    },
+    {
       "file": "Datastructure2.ipynb",
       "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
       "type": 3,

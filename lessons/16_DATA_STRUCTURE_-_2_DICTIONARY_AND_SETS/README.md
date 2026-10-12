@@ -36,5 +36,6 @@ Total parts recorded: **5**
 ## 📝 Class Notes & Lecture Materials
 | Type | File Name | Link / Download |
 | :--- | :--- | :--- |
+| `PPTX` (Lecture Material) | `04_DATASTRUCTURE-2-DICTIONARYANDSETS.pptx` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B1623AE02-2DB3-4912-943D-B6B02F0915F3%7D&file=04_DATASTRUCTURE-2-DICTIONARYANDSETS.pptx&action=edit&mobileredirect=true) |
 | `IPYNB` (In Class Material) | `Datastructure2.ipynb` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 

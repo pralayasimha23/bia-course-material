@@ -33,6 +33,7 @@ Total parts recorded: **3**
 | Type | File Name | Link / Download |
 | :--- | :--- | :--- |
 | `IPYNB` (In Class Material) | `NUMPYFUNDAMENTALS.ipynb` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
+| `PPTX` (Lecture Material) | `06_NUMPYFUNDAMENTALS.pptx` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BE7E0A8CB-9C72-4123-A5FC-D39AF1FC4BB0%7D&file=06_NUMPYFUNDAMENTALS.pptx&action=edit&mobileredirect=true) |
 | `JPG` (In Class Material) | `beach.jpg` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 | `JPEG` (In Class Material) | `eagle.jpeg` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 

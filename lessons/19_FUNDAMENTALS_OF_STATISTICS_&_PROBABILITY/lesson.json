@@ -27,6 +27,14 @@
   "weekDay": 40,
   "lectureMaterial": [
     {
+      "file": "data.json",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "json"
+    },
+    {
       "file": "data_practice2.csv",
       "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B11AD3354-58F7-44FF-9BB9-407A2EC715DC%7D&file=data_practice2.csv&action=default&mobileredirect=true",
       "type": 3,

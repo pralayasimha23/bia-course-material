@@ -35,5 +35,6 @@ Total parts recorded: **2**
 ## 📝 Class Notes & Lecture Materials
 | Type | File Name | Link / Download |
 | :--- | :--- | :--- |
+| `JSON` (Lecture Material) | `data.json` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 | `CSV` (In Class Material) | `data_practice2.csv` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B11AD3354-58F7-44FF-9BB9-407A2EC715DC%7D&file=data_practice2.csv&action=default&mobileredirect=true) |
 

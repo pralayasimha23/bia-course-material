@@ -1,7 +1,7 @@
 {
   "plannedDate": "2026-11-01",
   "id": 1549949,
-  "plannedStartTime": null,
+  "plannedStartTime": "10:00 AM",
   "topic": "TIME SERIES MODELING WITH ARIMA AND SARIMA",
   "subtopic": "Understanding Time Series Data.\nArima Model & Its Components\nBuilding Arima Models.\nPractical Forecasting With Arima.\nSeasonal Arima (sarima) Model & Its Components\nBuilding And Forecasting With Sarima.\nModel Evaluation And Tuning.",
   "plannedTrainerName": null,
@@ -20,13 +20,13 @@
   "hours": "3 Hours",
   "venue": null,
   "name": "HTC-AUG2026-DSAI-1",
-  "session_tag": "ONGOING",
+  "session_tag": "UPCOMING",
   "subTopic": "Understanding Time Series Data.\nArima Model & Its Components\nBuilding Arima Models.\nPractical Forecasting With Arima.\nSeasonal Arima (sarima) Model & Its Components\nBuilding And Forecasting With Sarima.\nModel Evaluation And Tuning.",
   "sessionTime": "1 Nov, 2026",
   "sessionplannedDate": "1 Nov, 2026",
   "weekDay": 44,
   "lectureMaterial": [],
-  "show_slot_selection": "no",
-  "bookSlotDetails": null,
+  "show_slot_selection": "yes",
+  "bookSlotDetails": 2,
   "display": "no"
 }

@@ -1,13 +1,13 @@
 # Lesson #27: SUPPORT VECTOR MACHINES (SVM) AND K-NEAREST NEIGHBORS (KNN)
 
-**Status:** `ONGOING` | **Date:** 2026-10-31 | **Duration:** 3 Hours
+**Status:** `UPCOMING` | **Date:** 2026-10-31 | **Duration:** 3 Hours
 
 ## 📌 Session Overview
 | Field | Details |
 | :--- | :--- |
 | **Lesson Number** | #27 |
 | **Topic** | SUPPORT VECTOR MACHINES (SVM) AND K-NEAREST NEIGHBORS (KNN) |
-| **Status** | `ONGOING` |
+| **Status** | `UPCOMING` |
 | **Planned Date** | 2026-10-31 |
 | **Actual Date** | 2026-10-31 |
 | **Trainer** | To be assigned |

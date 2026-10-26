@@ -3,4 +3,7 @@
 - **Batch Folder:** [BIA Academics SharePoint Directory](https://bostoninstituteofanalyti399-my.sharepoint.com/)
 
 ### Attached Documents
-*No files attached to this session.*
+- **ModelEvaluation-BreastCancerDataset.ipynb** (In Class Material): [View / Download](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1)
+- **K-FoldCross-Validation-TitanicDataset.ipynb** (In Class Material): [View / Download](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1)
+- **GridSearchHyperparameterTurning-TitanicDataset.ipynb** (In Class Material): [View / Download](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1)
+- **titanic.csv** (In Class Material): [View / Download](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B090076F0-F497-4149-A1AF-26C30475475F%7D&file=titanic.csv&action=default&mobileredirect=true)

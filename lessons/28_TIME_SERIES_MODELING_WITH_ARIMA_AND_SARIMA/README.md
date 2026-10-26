@@ -1,13 +1,13 @@
 # Lesson #28: TIME SERIES MODELING WITH ARIMA AND SARIMA
 
-**Status:** `ONGOING` | **Date:** 2026-11-01 | **Duration:** 3 Hours
+**Status:** `UPCOMING` | **Date:** 2026-11-01 | **Duration:** 3 Hours
 
 ## 📌 Session Overview
 | Field | Details |
 | :--- | :--- |
 | **Lesson Number** | #28 |
 | **Topic** | TIME SERIES MODELING WITH ARIMA AND SARIMA |
-| **Status** | `ONGOING` |
+| **Status** | `UPCOMING` |
 | **Planned Date** | 2026-11-01 |
 | **Actual Date** | 2026-11-01 |
 | **Trainer** | To be assigned |

@@ -29,6 +29,7 @@ Total parts recorded: **1**
 ## 📝 Class Notes & Lecture Materials
 | Type | File Name | Link / Download |
 | :--- | :--- | :--- |
+| `DOCX` (Lecture Material) | `Model_Evaluation_Techniques_Lecture.docx` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 | `IPYNB` (In Class Material) | `ModelEvaluation-BreastCancerDataset.ipynb` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 | `IPYNB` (In Class Material) | `K-FoldCross-Validation-TitanicDataset.ipynb` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 | `IPYNB` (In Class Material) | `GridSearchHyperparameterTurning-TitanicDataset.ipynb` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |

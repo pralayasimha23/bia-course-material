@@ -1,5 +1,5 @@
 {
-  "last_synced": "2026-10-26T09:34:55.372962",
+  "last_synced": "2026-11-02T11:56:22.433816",
   "total_lectures": 41,
   "dashboard": {},
   "allLectures": [
@@ -1061,6 +1061,14 @@
       "weekDay": 42,
       "lectureMaterial": [
         {
+          "file": "14_LOGISTICREGRESSIONANDCLASSIFICATIONMETRICS.pptx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B5EC88220-C92B-4AA7-91A3-27EA8A49FDB9%7D&file=14_LOGISTICREGRESSIONANDCLASSIFICATIONMETRICS.pptx&action=edit&mobileredirect=true",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "pptx"
+        },
+        {
           "file": "Logistic_Regression_Lecture_Notes.docx",
           "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
           "type": 3,
@@ -1082,6 +1090,14 @@
           "type": 3,
           "status": 1,
           "materialType": "In Class Material",
+          "extension": "csv"
+        },
+        {
+          "file": "iris.csv",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BDDC5A43C-6037-4BA2-9931-9A0E0C151CFB%7D&file=iris.csv&action=default&mobileredirect=true",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
           "extension": "csv"
         }
       ],
@@ -1117,6 +1133,14 @@
       "sessionplannedDate": "18 Oct, 2026",
       "weekDay": 42,
       "lectureMaterial": [
+        {
+          "file": "15_DECISIONTREESANDENSEMBLEMETHODS.pptx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B5173DA8D-9B04-4BCE-8E28-7A625D02BF34%7D&file=15_DECISIONTREESANDENSEMBLEMETHODS.pptx&action=edit&mobileredirect=true",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "pptx"
+        },
         {
           "file": "DecisionTree-IrisDataset.ipynb",
           "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
@@ -1166,6 +1190,14 @@
       "sessionplannedDate": "24 Oct, 2026",
       "weekDay": 43,
       "lectureMaterial": [
+        {
+          "file": "Model_Evaluation_Techniques_Lecture.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "docx"
+        },
         {
           "file": "ModelEvaluation-BreastCancerDataset.ipynb",
           "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
@@ -1240,12 +1272,36 @@
           "extension": "pptx"
         },
         {
+          "file": "unsupervised_docs.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "docx"
+        },
+        {
           "file": "ElbowMethodSilhouetteScoreforKselection-CustomerSegmentationDataset.ipynb",
           "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
           "type": 3,
           "status": 1,
           "materialType": "In Class Material",
           "extension": "ipynb"
+        },
+        {
+          "file": "customer_segmentation.csv",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B1606E8F5-E50B-4851-BC1B-4A77EF8F30CD%7D&file=customer_segmentation.csv&action=default&mobileredirect=true",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "csv"
+        },
+        {
+          "file": "unsupervised_docs.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "docx"
         }
       ],
       "show_slot_selection": "no",
@@ -1258,31 +1314,80 @@
       "plannedStartTime": "10:00 AM",
       "topic": "SUPPORT VECTOR MACHINES (SVM) AND K-NEAREST NEIGHBORS (KNN)",
       "subtopic": "Classification And Regression With Svm\nThe Concept Of Margin And Support Vectors\nKernel Trick For Non-linear Data\nIntroduction To Knn \nHow Knn Makes Predictions Based On Nearest Neighbors\nEuclidean Distance, Manhattan Distance, And Other Distance Metrics\nChoosing The Value Of K",
-      "plannedTrainerName": null,
-      "actualTrainerName": null,
-      "actualDate": null,
-      "videoLink": null,
-      "meetingLink": null,
-      "meetingDate": null,
-      "meetingTime": null,
-      "meetingHr": null,
-      "meetingDeleted": null,
+      "plannedTrainerName": "Diptanshu Chandan",
+      "actualTrainerName": "Diptanshu Chandan",
+      "actualDate": "2026-10-31",
+      "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBhwgW6QuHQTbLlWdjY8IeQAcYbaIAZLUNYwH6_mG-fbRY",
+      "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODA3N2FlNmUtNGIyMi00YThhLWI4YzAtYjE4MmUwZjk3Mzhm%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+      "meetingDate": "2026-10-31",
+      "meetingTime": "10:00 AM",
+      "meetingHr": "03:00",
+      "meetingDeleted": 0,
       "batchId": 1466,
       "lecNumber": 27,
       "isHoliday": 0,
-      "status": 0,
+      "status": 1,
       "hours": "3 Hours",
-      "venue": null,
+      "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
       "name": "HTC-AUG2026-DSAI-1",
-      "session_tag": "UPCOMING",
+      "session_tag": "COMPLETED",
       "subTopic": "Classification And Regression With Svm\nThe Concept Of Margin And Support Vectors\nKernel Trick For Non-linear Data\nIntroduction To Knn \nHow Knn Makes Predictions Based On Nearest Neighbors\nEuclidean Distance, Manhattan Distance, And Other Distance Metrics\nChoosing The Value Of K",
       "sessionTime": "31 Oct, 2026",
       "sessionplannedDate": "31 Oct, 2026",
       "weekDay": 44,
-      "lectureMaterial": [],
-      "show_slot_selection": "yes",
+      "lectureMaterial": [
+        {
+          "file": "mlr_end_to_end.ipynb",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "ipynb"
+        },
+        {
+          "file": "19_SUPPORTVECTORMACHINESSVMANDK-NEARESTNEIGHBORSKNN.pptx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B0BF84788-AA8A-49AB-9875-0944B0826AB5%7D&file=19_SUPPORTVECTORMACHINESSVMANDK-NEARESTNEIGHBORSKNN.pptx&action=edit&mobileredirect=true",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "pptx"
+        },
+        {
+          "file": "SVMclassifier-BreastCancerDatasetIn-built.ipynb",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "ipynb"
+        },
+        {
+          "file": "SVM_and_KNN_Teaching_Guide.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "docx"
+        },
+        {
+          "file": "SVM_Support_Vectors_Margin_Optimization_Notes.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "docx"
+        },
+        {
+          "file": "SVR_Support_Vector_Regression.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 1,
+          "status": 1,
+          "materialType": "Lecture Material",
+          "extension": "docx"
+        }
+      ],
+      "show_slot_selection": "no",
       "bookSlotDetails": 2,
-      "display": "yes"
+      "display": "no"
     },
     {
       "plannedDate": "2026-11-01",
@@ -1290,29 +1395,78 @@
       "plannedStartTime": "10:00 AM",
       "topic": "TIME SERIES MODELING WITH ARIMA AND SARIMA",
       "subtopic": "Understanding Time Series Data.\nArima Model & Its Components\nBuilding Arima Models.\nPractical Forecasting With Arima.\nSeasonal Arima (sarima) Model & Its Components\nBuilding And Forecasting With Sarima.\nModel Evaluation And Tuning.",
-      "plannedTrainerName": null,
-      "actualTrainerName": null,
-      "actualDate": null,
-      "videoLink": null,
-      "meetingLink": null,
-      "meetingDate": null,
-      "meetingTime": null,
-      "meetingHr": null,
-      "meetingDeleted": null,
+      "plannedTrainerName": "Diptanshu Chandan",
+      "actualTrainerName": "Diptanshu Chandan",
+      "actualDate": "2026-11-01",
+      "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQA8ehJRIomOTZQMU4xJ0FSVAXESjQ_EhfwZKX_MonS0gWg",
+      "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTlhYTljMTMtNDZhYi00MTk1LWJjZmQtMTMzMmM3OTlkODU5%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+      "meetingDate": "2026-11-01",
+      "meetingTime": "10:00 AM",
+      "meetingHr": "03:00",
+      "meetingDeleted": 0,
       "batchId": 1466,
       "lecNumber": 28,
       "isHoliday": 0,
-      "status": 0,
+      "status": 1,
       "hours": "3 Hours",
-      "venue": null,
+      "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
       "name": "HTC-AUG2026-DSAI-1",
-      "session_tag": "UPCOMING",
+      "session_tag": "COMPLETED",
       "subTopic": "Understanding Time Series Data.\nArima Model & Its Components\nBuilding Arima Models.\nPractical Forecasting With Arima.\nSeasonal Arima (sarima) Model & Its Components\nBuilding And Forecasting With Sarima.\nModel Evaluation And Tuning.",
       "sessionTime": "1 Nov, 2026",
       "sessionplannedDate": "1 Nov, 2026",
       "weekDay": 44,
-      "lectureMaterial": [],
-      "show_slot_selection": "yes",
+      "lectureMaterial": [
+        {
+          "file": "unsupervised_docs.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "docx"
+        },
+        {
+          "file": "SARIMA_Complete_Guide.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "docx"
+        },
+        {
+          "file": "Time_Series_Lecture_Notes.docx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "docx"
+        },
+        {
+          "file": "ARIMAmodel-TemperatureDataset.ipynb",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "ipynb"
+        },
+        {
+          "file": "21_TIMESERIESMODELINGWITHARIMAANDSARIMA.pptx",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B83A3EE62-607F-445E-BFD4-13D6254ED624%7D&file=21_TIMESERIESMODELINGWITHARIMAANDSARIMA.pptx&action=edit&mobileredirect=true",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "pptx"
+        },
+        {
+          "file": "temperature.csv",
+          "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BEC6A1CBB-B893-4B63-99AC-DB125E4B287C%7D&file=temperature.csv&action=default&mobileredirect=true",
+          "type": 3,
+          "status": 1,
+          "materialType": "In Class Material",
+          "extension": "csv"
+        }
+      ],
+      "show_slot_selection": "no",
       "bookSlotDetails": 2,
       "display": "no"
     },
@@ -1344,9 +1498,9 @@
       "sessionplannedDate": "7 Nov, 2026",
       "weekDay": 45,
       "lectureMaterial": [],
-      "show_slot_selection": "no",
-      "bookSlotDetails": null,
-      "display": "no"
+      "show_slot_selection": "yes",
+      "bookSlotDetails": 2,
+      "display": "yes"
     },
     {
       "plannedDate": "2026-11-08",
@@ -1376,8 +1530,8 @@
       "sessionplannedDate": "8 Nov, 2026",
       "weekDay": 45,
       "lectureMaterial": [],
-      "show_slot_selection": "no",
-      "bookSlotDetails": null,
+      "show_slot_selection": "yes",
+      "bookSlotDetails": 2,
       "display": "no"
     },
     {

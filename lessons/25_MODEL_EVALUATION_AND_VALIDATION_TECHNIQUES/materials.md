@@ -3,6 +3,7 @@
 - **Batch Folder:** [BIA Academics SharePoint Directory](https://bostoninstituteofanalyti399-my.sharepoint.com/)
 
 ### Attached Documents
+- **Model_Evaluation_Techniques_Lecture.docx** (Lecture Material): [View / Download](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1)
 - **ModelEvaluation-BreastCancerDataset.ipynb** (In Class Material): [View / Download](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1)
 - **K-FoldCross-Validation-TitanicDataset.ipynb** (In Class Material): [View / Download](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1)
 - **GridSearchHyperparameterTurning-TitanicDataset.ipynb** (In Class Material): [View / Download](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1)

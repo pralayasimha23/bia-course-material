@@ -4,29 +4,78 @@
   "plannedStartTime": "10:00 AM",
   "topic": "SUPPORT VECTOR MACHINES (SVM) AND K-NEAREST NEIGHBORS (KNN)",
   "subtopic": "Classification And Regression With Svm\nThe Concept Of Margin And Support Vectors\nKernel Trick For Non-linear Data\nIntroduction To Knn \nHow Knn Makes Predictions Based On Nearest Neighbors\nEuclidean Distance, Manhattan Distance, And Other Distance Metrics\nChoosing The Value Of K",
-  "plannedTrainerName": null,
-  "actualTrainerName": null,
-  "actualDate": null,
-  "videoLink": null,
-  "meetingLink": null,
-  "meetingDate": null,
-  "meetingTime": null,
-  "meetingHr": null,
-  "meetingDeleted": null,
+  "plannedTrainerName": "Diptanshu Chandan",
+  "actualTrainerName": "Diptanshu Chandan",
+  "actualDate": "2026-10-31",
+  "videoLink": "https://bostoninstituteofanalyti399-my.sharepoint.com/:v:/g/personal/academics_hitec_bostoninstituteofanalytics_org/IQBhwgW6QuHQTbLlWdjY8IeQAcYbaIAZLUNYwH6_mG-fbRY",
+  "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODA3N2FlNmUtNGIyMi00YThhLWI4YzAtYjE4MmUwZjk3Mzhm%40thread.v2/0?context=%7b%22Tid%22%3a%22d15f20f2-2618-4b05-95ae-b78e13713be7%22%2c%22Oid%22%3a%229c60d500-05d0-4d77-bbf2-cc612f8765a3%22%7d",
+  "meetingDate": "2026-10-31",
+  "meetingTime": "10:00 AM",
+  "meetingHr": "03:00",
+  "meetingDeleted": 0,
   "batchId": 1466,
   "lecNumber": 27,
   "isHoliday": 0,
-  "status": 0,
+  "status": 1,
   "hours": "3 Hours",
-  "venue": null,
+  "venue": "vCollab Spaces Private Limited 5th floor unit no 502, Jain Sadguru Image's Capital Park, Capital Park Road, VIP Hills, Madhapur, Hyderabad. Telangana - 500081",
   "name": "HTC-AUG2026-DSAI-1",
-  "session_tag": "UPCOMING",
+  "session_tag": "COMPLETED",
   "subTopic": "Classification And Regression With Svm\nThe Concept Of Margin And Support Vectors\nKernel Trick For Non-linear Data\nIntroduction To Knn \nHow Knn Makes Predictions Based On Nearest Neighbors\nEuclidean Distance, Manhattan Distance, And Other Distance Metrics\nChoosing The Value Of K",
   "sessionTime": "31 Oct, 2026",
   "sessionplannedDate": "31 Oct, 2026",
   "weekDay": 44,
-  "lectureMaterial": [],
-  "show_slot_selection": "yes",
+  "lectureMaterial": [
+    {
+      "file": "mlr_end_to_end.ipynb",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "ipynb"
+    },
+    {
+      "file": "19_SUPPORTVECTORMACHINESSVMANDK-NEARESTNEIGHBORSKNN.pptx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B0BF84788-AA8A-49AB-9875-0944B0826AB5%7D&file=19_SUPPORTVECTORMACHINESSVMANDK-NEARESTNEIGHBORSKNN.pptx&action=edit&mobileredirect=true",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "pptx"
+    },
+    {
+      "file": "SVMclassifier-BreastCancerDatasetIn-built.ipynb",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "ipynb"
+    },
+    {
+      "file": "SVM_and_KNN_Teaching_Guide.docx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "docx"
+    },
+    {
+      "file": "SVM_Support_Vectors_Margin_Optimization_Notes.docx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "docx"
+    },
+    {
+      "file": "SVR_Support_Vector_Regression.docx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "docx"
+    }
+  ],
+  "show_slot_selection": "no",
   "bookSlotDetails": 2,
-  "display": "yes"
+  "display": "no"
 }

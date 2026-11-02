@@ -30,7 +30,9 @@ Total parts recorded: **1**
 ## 📝 Class Notes & Lecture Materials
 | Type | File Name | Link / Download |
 | :--- | :--- | :--- |
+| `PPTX` (Lecture Material) | `14_LOGISTICREGRESSIONANDCLASSIFICATIONMETRICS.pptx` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B5EC88220-C92B-4AA7-91A3-27EA8A49FDB9%7D&file=14_LOGISTICREGRESSIONANDCLASSIFICATIONMETRICS.pptx&action=edit&mobileredirect=true) |
 | `DOCX` (In Class Material) | `Logistic_Regression_Lecture_Notes.docx` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 | `IPYNB` (In Class Material) | `BinaryClassification-BreastCancerDataset.ipynb` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 | `CSV` (In Class Material) | `breast_cancer_data.csv` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BE5BFF23A-7E8E-4F2F-9BB5-46C251A8BF2C%7D&file=breast_cancer_data.csv&action=default&mobileredirect=true) |
+| `CSV` (Lecture Material) | `iris.csv` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BDDC5A43C-6037-4BA2-9931-9A0E0C151CFB%7D&file=iris.csv&action=default&mobileredirect=true) |
 

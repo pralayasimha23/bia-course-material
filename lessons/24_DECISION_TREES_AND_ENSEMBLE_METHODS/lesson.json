@@ -27,6 +27,14 @@
   "weekDay": 42,
   "lectureMaterial": [
     {
+      "file": "15_DECISIONTREESANDENSEMBLEMETHODS.pptx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B5173DA8D-9B04-4BCE-8E28-7A625D02BF34%7D&file=15_DECISIONTREESANDENSEMBLEMETHODS.pptx&action=edit&mobileredirect=true",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "pptx"
+    },
+    {
       "file": "DecisionTree-IrisDataset.ipynb",
       "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
       "type": 3,

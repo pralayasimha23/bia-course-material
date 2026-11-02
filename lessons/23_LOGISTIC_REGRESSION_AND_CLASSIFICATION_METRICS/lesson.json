@@ -27,6 +27,14 @@
   "weekDay": 42,
   "lectureMaterial": [
     {
+      "file": "14_LOGISTICREGRESSIONANDCLASSIFICATIONMETRICS.pptx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B5EC88220-C92B-4AA7-91A3-27EA8A49FDB9%7D&file=14_LOGISTICREGRESSIONANDCLASSIFICATIONMETRICS.pptx&action=edit&mobileredirect=true",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "pptx"
+    },
+    {
       "file": "Logistic_Regression_Lecture_Notes.docx",
       "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
       "type": 3,
@@ -48,6 +56,14 @@
       "type": 3,
       "status": 1,
       "materialType": "In Class Material",
+      "extension": "csv"
+    },
+    {
+      "file": "iris.csv",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BDDC5A43C-6037-4BA2-9931-9A0E0C151CFB%7D&file=iris.csv&action=default&mobileredirect=true",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
       "extension": "csv"
     }
   ],

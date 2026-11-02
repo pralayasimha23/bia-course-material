@@ -30,5 +30,8 @@ Total parts recorded: **1**
 | Type | File Name | Link / Download |
 | :--- | :--- | :--- |
 | `PPTX` (In Class Material) | `17_UNSUPERVISEDLEARNING.pptx` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BD121B0D1-892A-4648-A24E-A705AA2C8762%7D&file=17_UNSUPERVISEDLEARNING.pptx&action=edit&mobileredirect=true) |
+| `DOCX` (Lecture Material) | `unsupervised_docs.docx` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 | `IPYNB` (In Class Material) | `ElbowMethodSilhouetteScoreforKselection-CustomerSegmentationDataset.ipynb` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
+| `CSV` (Lecture Material) | `customer_segmentation.csv` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B1606E8F5-E50B-4851-BC1B-4A77EF8F30CD%7D&file=customer_segmentation.csv&action=default&mobileredirect=true) |
+| `DOCX` (In Class Material) | `unsupervised_docs.docx` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 

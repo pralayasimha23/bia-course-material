@@ -35,12 +35,36 @@
       "extension": "pptx"
     },
     {
+      "file": "unsupervised_docs.docx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "docx"
+    },
+    {
       "file": "ElbowMethodSilhouetteScoreforKselection-CustomerSegmentationDataset.ipynb",
       "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
       "type": 3,
       "status": 1,
       "materialType": "In Class Material",
       "extension": "ipynb"
+    },
+    {
+      "file": "customer_segmentation.csv",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B1606E8F5-E50B-4851-BC1B-4A77EF8F30CD%7D&file=customer_segmentation.csv&action=default&mobileredirect=true",
+      "type": 1,
+      "status": 1,
+      "materialType": "Lecture Material",
+      "extension": "csv"
+    },
+    {
+      "file": "unsupervised_docs.docx",
+      "link": "https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1",
+      "type": 3,
+      "status": 1,
+      "materialType": "In Class Material",
+      "extension": "docx"
     }
   ],
   "show_slot_selection": "no",

@@ -26,7 +26,7 @@
   "sessionplannedDate": "8 Nov, 2026",
   "weekDay": 45,
   "lectureMaterial": [],
-  "show_slot_selection": "no",
-  "bookSlotDetails": null,
+  "show_slot_selection": "yes",
+  "bookSlotDetails": 2,
   "display": "no"
 }

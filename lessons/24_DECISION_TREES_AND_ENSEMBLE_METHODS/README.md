@@ -31,6 +31,7 @@ Total parts recorded: **1**
 ## 📝 Class Notes & Lecture Materials
 | Type | File Name | Link / Download |
 | :--- | :--- | :--- |
+| `PPTX` (Lecture Material) | `15_DECISIONTREESANDENSEMBLEMETHODS.pptx` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7B5173DA8D-9B04-4BCE-8E28-7A625D02BF34%7D&file=15_DECISIONTREESANDENSEMBLEMETHODS.pptx&action=edit&mobileredirect=true) |
 | `IPYNB` (In Class Material) | `DecisionTree-IrisDataset.ipynb` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/Documents/BIA%20-%20Default/Academics/HTC-AUG2026-DSAI-1) |
 | `CSV` (In Class Material) | `iris.csv` | [Open in SharePoint](https://bostoninstituteofanalyti399-my.sharepoint.com/personal/corporateofficeindia_bostoninstituteofanalytics_org/_layouts/15/Doc.aspx?sourcedoc=%7BD0DE737C-5DF0-4728-BF4F-3456F970E760%7D&file=iris.csv&action=default&mobileredirect=true) |
 
